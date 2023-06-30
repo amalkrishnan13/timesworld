@@ -1,0 +1,12 @@
+@media only screen and (max-width: 320px) {
+ .one{
+  max-width: 300px;
+  margin-left: 10px;
+ }
+  
+  }
+  @media only screen and (min-width: 768px) {
+    .one{
+      margin-left: 100px;
+    }
+  }
